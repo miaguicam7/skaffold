@@ -13,3 +13,5 @@
 5) accedemos al estado del Actuator/actuator/health.
 
 6) `skaffold dev` -> livereload
+
+7) skaffold delete. Nos fundimos el service / deployment que hemos creado.
